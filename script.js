@@ -53,4 +53,6 @@ const farMinus5 = (-5 * 9) / 5 + 32;
 console.log(farMinus5);
 
 //3a
-console.log('My name is Renata');
+const str = 'My name is ';
+const name = 'Renata';
+console.log(str + name);

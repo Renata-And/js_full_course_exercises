@@ -51,3 +51,6 @@ const cel86 = ((86 - 32) * 5) / 9;
 console.log(cel86);
 const farMinus5 = (-5 * 9) / 5 + 32;
 console.log(farMinus5);
+
+//3a
+console.log('My name is Renata');
